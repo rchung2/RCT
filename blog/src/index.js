@@ -26,3 +26,5 @@ ReactDOM.render(
   </Provider>,
   document.querySelector(".container")
 );
+
+//Checking for git compatibility 
